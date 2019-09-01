@@ -1,0 +1,9 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="member.master.cs" Inherits="myWebsiteLab.Member.member" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+
+      <h2>Membersxhip</h2>
+    <a href="Home">Home</a> |
+    <a href="MemberProfile">My Profile</a> |
+    <a href="MemberOrder">My Order</a>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

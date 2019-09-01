@@ -1,0 +1,559 @@
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\ApplicationInsights.config
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\csc.exe
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\vbc.exe
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll.config
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.pdb
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\EntityFramework.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Owin.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\WebGrease.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.pdb
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\EntityFramework.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+D:\ICT2107BAug17Website\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.pdb
+F:\myWebsiteLab\myWebsiteLab\bin\ApplicationInsights.config
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\csc.exe
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\vbc.exe
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+F:\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+F:\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll.config
+F:\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll
+F:\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.pdb
+F:\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.dll
+F:\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+F:\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+F:\myWebsiteLab\myWebsiteLab\bin\EntityFramework.dll
+F:\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Owin.dll
+F:\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.dll
+F:\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.dll
+F:\myWebsiteLab\myWebsiteLab\bin\WebGrease.dll
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.pdb
+F:\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\myWebsiteLab\myWebsiteLab\bin\EntityFramework.xml
+F:\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+F:\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+F:\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+F:\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.pdb
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\ApplicationInsights.config
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\csc.exe
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\vbc.exe
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll.config
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.pdb
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Owin.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\WebGrease.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.pdb
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csproj.CoreCompileInputs.cache
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+C:\Users\Hariz\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.pdb
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\ApplicationInsights.config
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\csc.exe
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\vbc.exe
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll.config
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.pdb
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\EntityFramework.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Owin.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\WebGrease.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.pdb
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\EntityFramework.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csproj.CoreCompileInputs.cache
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+C:\Users\Hariz\Desktop\ICT2107B (Ng)\Lab\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.pdb
+F:\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\ApplicationInsights.config
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\csc.exe
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll.config
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.pdb
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Owin.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\WebGrease.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+C:\Users\User\Desktop\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.pdb
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\ApplicationInsights.config
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\csc.exe
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\myWebsiteLab.dll.config
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\myWebsiteLab.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\myWebsiteLab.pdb
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\EntityFramework.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Owin.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\WebGrease.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\EntityFramework.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\System.Web.Providers.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\obj\Debug\myWebsiteLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+C:\Users\User\Desktop\myWebsiteLab - Copy\myWebsiteLab\obj\Debug\myWebsiteLab.pdb
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll.config
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\myWebsiteLab.pdb
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\EntityFramework.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Owin.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\WebGrease.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\EntityFramework.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\System.Web.Providers.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.dll
+C:\Users\User\Desktop\Sem 5\E-comerce\myWebsiteLab\myWebsiteLab\obj\Debug\myWebsiteLab.pdb

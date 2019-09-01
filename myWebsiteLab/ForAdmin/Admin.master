@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="myWebsiteLab.ForAdmin.Admin" %>
+<asp:Content ID="Conten1" ContentPlaceHolderID="MainContent" runat="server">
+    <!DOCTYPE HTML>
+    <body>
+  
+    <div class="main">
+              <div class="main_head"></div>
+              <div class="main_left">
+                  <div class="main_left_logo"><img src="../Img_Admin/title.gif" width=160 height=40 /></div>
+                  <div  class="main_left_exit">Current Privilage:Admin</div>
+                  <div  class="main_left_exit"><a runat="server" href="" title="Manage your account"><font color="red">Hello</font><font color="black">, <%: Context.User.Identity.GetUserName()  %></font></a></div>
+                  <div class="main_left_box">
+                       <div class="main_left_box_title1">Basic</div>
+                       <div class="main_left_box_text">
+                          <ul>
+                             <li><a href="../Default.aspx">View as a Guest </a></li>
+                             <li><a href="../Member/Default.aspx">View as a membership</a></li>                              
+                             <li><a href="https://www.similarweb.com">Statistics log</a></li>
+                          </ul>                      
+                       </div>
+                  </div>
+                  <div class="main_left_box">     
+                       <div class="main_left_box_title2">Content Manage</div>
+                       <div class="main_left_box_text">
+                          <ul>
+                              <li><a href"">View News</li>
+                             <li><a href"">Edit or Delete news</a> </li>
+                             <li><a href="AdminFaq.aspx">View FAQ</a></li>
+                             <li><a href="AdminFaq.aspx">Edit or Delete FAQ</a></li>
+                             <li><a href="">Feedback log</a></li>
+                             <li><a href="">Edit feedback form</a></li>
+                          </ul>
+                       </div>
+                  </div>
+                  <div class="main_left_box">
+                       <div class="main_left_box_title3">Cinema Details</div>
+                <div class="main_left_box_text">
+                          <ul>
+                             <li>Top Movie Ranking</li>
+                             
+                             <li><a href="Game_Black.aspx">1</a></li>
+                          </ul>
+                       </div>
+                        </div>
+    <div class="main_left_box">
+                       
+                       <div class="main_left_box_title3">Copyright</div>
+                        <div class="main_left_box_text">
+                          <ul>
+                             <li>Developer : Teh Win Sam , Rajesh , Hariz and  Chew Jia Huei </li>
+                          </ul>
+                       </div>                  
+                  </div>
+              </div>
+        <div class="main_right">
+    <html>
+        <link rel="stylesheet" href="Style/style.css" type="text/css"/>
+</body>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </html>
+</div>
+    </div>
+</font>
+</asp:Content>
